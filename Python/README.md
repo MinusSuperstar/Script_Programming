@@ -2,7 +2,7 @@
 
 :white_check_mark: 3.0 Czatbot z wytrenowaną umiejętnością (poprzez prompt) obsługi co
 najmniej 3 sposobów sformułowania intencji (powitanie, menu,
-zamówienie). [link do commita]()
+zamówienie). [link do commita](https://github.com/MinusSuperstar/Script_Programming/commit/904367741ef195ef24a6bb26af5c13761cabf541)
 
 :x: 3.5 Informacje o godzinach otwarcia i pozycjach w menu powinny być
 pobierane z pliku konfiguracyjnego (JSON/YAML) i przekazywane do
@@ -23,7 +23,7 @@ Zapisać zamówienie przez wywołanie api aplikacji we Flasku. We Flasku
 zapisujemy dane zamówienia w bazie.
 
 
-Kod [link do zadania 3]()
+Kod [link do zadania 3](https://github.com/MinusSuperstar/Script_Programming/blob/main/Python/main.py)
 
 ### Instrukcja obsługi
 
