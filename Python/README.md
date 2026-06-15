@@ -23,7 +23,7 @@ Zapisać zamówienie przez wywołanie api aplikacji we Flasku. We Flasku
 zapisujemy dane zamówienia w bazie.
 
 
-Kod [link do zadania 3](https://github.com/MinusSuperstar/Script_Programming/blob/main/Python/main.py)
+Kod [link do zadania 5](https://github.com/MinusSuperstar/Script_Programming/blob/main/Python/main.py)
 
 ### Instrukcja obsługi
 

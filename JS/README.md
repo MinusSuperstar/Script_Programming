@@ -1,8 +1,8 @@
 # Zadanie 2: 
 
-:white_check_mark: 3.0 Prosty zamek wykorzystując minimum 5 różnych rodzajów bloków
+:white_check_mark: 3.0 Prosty zamek wykorzystując minimum 5 różnych rodzajów bloków [link do commita](https://github.com/MinusSuperstar/Script_Programming/commit/36607adb21af6f54bfae7082a0faee244681a622)
 
-:white_check_mark: 3.5 Posiada mimum 4 okna
+:white_check_mark: 3.5 Posiada mimum 4 okna [link do commita](https://github.com/MinusSuperstar/Script_Programming/commit/b5458abb0dea57714821f7966a8122930824fc4f)
 
 :x: 4.0 Posiada fosę oraz most
 
