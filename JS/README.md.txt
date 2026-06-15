@@ -2,7 +2,7 @@
 
 :white_check_mark: 3.0 Prosty zamek wykorzystując minimum 5 różnych rodzajów bloków
 
-:x: 3.5 Posiada mimum 4 okna
+:white_check_mark: 3.5 Posiada mimum 4 okna
 
 :x: 4.0 Posiada fosę oraz most
 
