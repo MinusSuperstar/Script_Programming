@@ -1,6 +1,8 @@
 # Zadanie 1: Bash - Kółko i Krzyżyk
 
-✓ 3.0 - działa w trybie gry turowej
+✅ 3.0 - działa w trybie gry turowej
+❌ 4.0 - pozwala na zapis i odtwarzanie przerwanej gry (save game),
+❌ 5.0 - pozwala na grę z komputere
 
 ### Instrukcja obsługi
 
